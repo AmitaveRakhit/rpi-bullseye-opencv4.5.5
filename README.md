@@ -1,6 +1,10 @@
 Command
 
-sudo git clone 
+sudo git clone https://github.com/AmitaveRakhit/rpi-bullseye-opencv4.6.0.git
+
+
 cd rpi-bullseye-opencv4.6.0
+
 sudo chmod 775 install.sh
+
 sudo ./install.sh
